@@ -21,7 +21,7 @@ body{
     
 }
 .half img{
-    width: 90%;
+    width: 100%;
     
 }
 section{
@@ -54,16 +54,32 @@ p{
     text-align: center;
     font-weight: 700;
 }
-.half-new{
+.half-old{
     text-align: right;
 }
  .row img{
-     width: 190%;
+     width: 33.33%;
+     float: left;
+     margin-bottom: 20px;
     
+
+
  }
 
 .banner-work{
     width:700px;
     margin-bottom: 200px;
 
+}
+
+.banner-bio{
+    text-align: center;
+
+
+}
+
+
+footer{
+    text-align: center;
+    color:black ;
 }
