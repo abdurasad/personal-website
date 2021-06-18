@@ -46,8 +46,9 @@ p {
   text-align: right;
 }
 .row img {
-  width: 33.33%;
+  width: 100%;
   float: right;
+  margin-left: 400px;
   margin-bottom: 20px;
 }
 
@@ -70,17 +71,17 @@ footer {
 
   color: white;
   margin-bottom: 20px;
-  font-weight: 700;
+  font-weight: 700px;
 }
 
 .hi {
-  margin-top: 400px;
+  margin-top: 500px;
   text-align: relative;
-  padding-left: 500px;
+  padding-left: 400px;
 }
 .banner-bio {
   background-image: url(images/biography-bg.png);
 }
 .bfn {
-  margin-top: 800px;
+  margin-top: 1700px;
 }
