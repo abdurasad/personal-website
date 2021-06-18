@@ -47,7 +47,7 @@ p {
 }
 .row img {
   width: 33.33%;
-  float: left;
+  float: right;
   margin-bottom: 20px;
 }
 
@@ -76,8 +76,11 @@ footer {
 .hi {
   margin-top: 400px;
   text-align: relative;
-  padding-left: 200px;
+  padding-left: 500px;
 }
 .banner-bio {
   background-image: url(images/biography-bg.png);
+}
+.bfn {
+  margin-top: 800px;
 }
